@@ -2,5 +2,4 @@
 hello, test some checks
 
 wow a change
-another one
-this one should just fail
+its not a very good one though
